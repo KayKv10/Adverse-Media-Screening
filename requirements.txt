@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Core ML Libraries
+transformers[torch]
+datasets
+evaluate
+accelerate
+seqeval
